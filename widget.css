@@ -1,0 +1,48 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #434A54;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+/* input styles */
+input {
+    min-height: 24px;
+    font-weight: 400;
+    padding-right: 8px;
+    padding-left: 8px;
+    font-size: 13px;
+    border-color: #c8d1e0;
+    border-width: 1px;
+    border-radius: 3px;
+}
+
+/* button styles */
+button {
+    font-size: 14px;
+    border-color: #3272D9;
+    min-width: 64px;
+    min-height: 24px;  
+    border-width: 1px;
+    border-radius: 3px;
+    padding-right: 8px;
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin: 8px;
+}
+
+button.primary {
+    background-color: #3272D9;
+    color: #FFFFFF;
+    
+}
+button.secondary {
+    background-color: #FFFFFF;
+    color: #3272D9;
+}
+
+/* table styles */ 
